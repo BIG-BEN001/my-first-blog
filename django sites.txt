@@ -1,2 +1,4 @@
 #http://127.0.0.1:8000/
 #http://127.0.0.1:8000/admin/(site administration)
+https://github.com/BIG-BEN001/my-first-blog(GitHub)
+ce306c3a8b30ed8b61b11f6a40e0d5d51566f603(API Token)
